@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
+N:Somthankar;Raginee;P.;Prof.;
 FN:Prof. Raginee P. Somthankar
-N:Raginee;P. Somthankar;;Prof.;
 ORG:English Learning Academy & Study Abroad Consultancy
 TITLE:Founder & Lead Mentor
-TEL;TYPE=CELL:+919130054332
+TEL;TYPE=CELL,VOICE:+919130054332
 URL:https://elastudyabroad.co.in/
 NOTE:Founder & Lead Mentor at English Learning Academy & Study Abroad Consultancy
 END:VCARD
